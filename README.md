@@ -69,9 +69,10 @@ OneM是一款纯ReactNative开发的APP，也是作者开发的第三个RN项目
 # 安装调试
 1. `git clone https://github.com/guangqiang-liu/OneM`
 2. `npm install -g react-native-cli`（*如果之前安装过全局的react-native-cli请忽略此步骤*）
-3. `npm install`
-4. `npm start`
-5. 使用Xcode 或者Android Studio 运行项目
+3. `react-native link`
+4. `npm install`
+5. `npm start`
+6. 使用Xcode 或者Android Studio 运行项目
 
 # 数据API
 **项目中使用到的数据来源于网络抓包，在此也感谢前人总结的API文档**
@@ -169,3 +170,7 @@ OneM是一款纯ReactNative开发的APP，也是作者开发的第三个RN项目
 **OneM项目是基本完全按照公司企业开发的要求和标准来搭建整体框架和开发的，非常适合RN初学者和有一定RN开发基础的同学们参考学习。希望OneM能给同学们带来不一样的收获。如果同学们在开发中遇到RN的问题，也可以加入作者的RN技术交流群，多多提问、交流(QQ交流群：620792950)。**
 
 **当然，如果同学们认为作者的开源项目还不错，也请给个 `star` 支持一下 🙏🙏🙏 。也衷心的欢迎同学们给作者提些宝贵的意见和建议！**
+
+GIT ADD!
+GIT ADD! --AMEND
+GIT ADD! --AMEND repeat
